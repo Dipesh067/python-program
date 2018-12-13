@@ -1,0 +1,2 @@
+a=int(Input("Enter the radius of circle:")
+print("Area of the given circle is",(a*a*3.14)
